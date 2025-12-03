@@ -1,2 +1,2 @@
-# ravens-ridge-website
-🌱  Raven's Ridge home on the web! 🌱 
+# 🌱  Raven's Ridge 🌱 
+Raven's Ridge home on the web!
